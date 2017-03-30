@@ -1,0 +1,31 @@
+{
+  "name": "confusion",
+  "authors": [
+    "Douglas Franco"
+  ],
+  "description": "Coursera Frameworks and Webtools course",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.1",
+    "angular": "^1.5.5",
+    "angular-route": "^1.6.3",
+    "angular-ui-router": "^0.4.2",
+    "angular-resource": "^1.6.3",
+    "angular-mocks": "^1.6.3"
+  }
+}
