@@ -105,7 +105,7 @@ angular.module('confusionApp')
                 $scope.commentForm.$setPristine();
                 $scope.mycomment = {rating:"5", comment:"", author:"", date:""};
                 $scope.checked = true;
-            }
+            };
         }])
 
         //implement the IndexController and About Controller here
