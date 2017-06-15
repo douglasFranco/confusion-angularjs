@@ -248,6 +248,19 @@
       },
       "comments": "Nice!",
       "id": 3
+    },
+    {
+      "mychannel": "Email",
+      "firstName": "Joao",
+      "lastName": "Paulo",
+      "agree": true,
+      "email": "do@teste.com",
+      "tel": {
+        "areaCode": "48",
+        "number": "7777788888"
+      },
+      "comments": "Tese!",
+      "id": 4
     }
   ]
 }
